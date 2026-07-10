@@ -5,17 +5,17 @@ Repo for assignments on Data Analytics course from Johan Cruyff Institute.
 
 Analysis of a single football training session recorded with a 10 Hz GPS tracker and a heart rate monitor. The goal is to turn raw tracking data into a clear, coach-facing picture of workload, movement and fatigue.
 
-### What the analysis covers
+### What The Analysis Covers
 
-- Data validation and cleaning (missing values, timestamp parsing, gapdetection, speed cross-check)
+- Data validation and cleaning (missing values, timestamp parsing, gap detection, speed cross-check)
 - Transformations: speed in m/s, distance, acceleration, speed zones, sprint detection, heart rate zones
-- Session split into two halves and 15-minute blocks
+- Session split into two halves and 15-minute blocks to facilitate analysis
 - Fatigue analysis using an efficiency index (distance per heartbeat)
-- Five figures: session overview, movement map, occupancy heatmap, intensity profile, and a per-block fatigue panel
+- Five images: session overview, movement map, occupancy heatmap, intensity profile, and a per-block fatigue panel
 
 The full write-up for the coach is in `report/` (PDF).
 
-### Project structure
+### Project Structure
 
     data/        raw data (not tracked in git — see below)
     notebooks/   analysis.ipynb (the full analysis)
