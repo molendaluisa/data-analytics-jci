@@ -28,8 +28,8 @@ Requires Python 3.11
 
 ```bash
 # clone
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/molendaluisa/data-analytics-jci.git
+cd data-analytics-jci
 
 # create and activate a virtual environment
 python -m venv .venv
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ### Data
 
 The raw data file is **not included** in this repository (large file size).
-To run the notebook, place the data file in `data/` and name it `raw_data.csv`. Optionally, you can always modify the path in the 1st notebook cell to point to where you file is.
+To run the notebook, place the data file in `data/` and name it `raw_data.csv`. Optionally, you can always modify the path in the 1st notebook cell to point to where you file is. The dataset is also available at [[Data Analytics in Sports JCI] Assignment #3](https://drive.google.com/drive/folders/1UOdxvXjD4mikWyyH5Nra7soX9SJsscHk?usp=drive_link).
 
 ### Running
 
