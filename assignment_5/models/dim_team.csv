@@ -1,13 +1,13 @@
-team_name,team_id
-Arsenal WFC,1
-Aston Villa W,2
-Brighton & Hove Albion WFC,3
-Bristol City WFC,4
-Chelsea FCW,5
-Everton LFC,6
-Leicester City WFC,7
-Liverpool WFC,8
-Manchester City WFC,9
-Manchester United W,10
-Tottenham Hotspur Women,11
-West Ham United LFC,12
+team_name,team_id,team_logo_url
+Arsenal WFC,1,https://ik.imagekit.io/wahsports/Teams/team_5.png
+Aston Villa W,2,https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/1280px-Aston_Villa_FC_new_crest.svg.png
+Brighton & Hove Albion WFC,3,https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1920px-Brighton_and_Hove_Albion_FC_crest.svg.png
+Bristol City WFC,4,https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Bristol_City_crest.svg/1920px-Bristol_City_crest.svg.png
+Chelsea FCW,5,https://ik.imagekit.io/wahsports/Teams/team_6.png
+Everton LFC,6,https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1920px-Everton_FC_logo.svg.png
+Leicester City WFC,7,https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1920px-Leicester_City_crest.svg.png
+Liverpool WFC,8,https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1280px-Liverpool_FC.svg.png
+Manchester City WFC,9,https://ik.imagekit.io/wahsports/Teams/team_92.png
+Manchester United W,10,https://ik.imagekit.io/wahsports/Teams/team_17.png
+Tottenham Hotspur Women,11,https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/960px-Tottenham_Hotspur.svg.png
+West Ham United LFC,12,https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1920px-West_Ham_United_FC_logo.svg.png
