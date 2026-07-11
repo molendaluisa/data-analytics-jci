@@ -85,6 +85,7 @@ Data is used under the StatsBomb open data licence, which requires attribution.
         └── 07_shots.py         build shot-level table for shot maps    
     models/     star schema CSVs consumed by Power BI
     cache/      raw event/lineup downloads (not versioned)
+    dashboard/  PBI dashboard pbix file, pdf version also added
 
 ### Setup
 
@@ -129,7 +130,7 @@ Star schema with two fact tables sharing conformed dimensions:
 
     •° `fact_shots[team]` <- `dim_team[team_name]`
 
-![alt text](assignment_5/image.png)
+![Models Relationships](assignment_5/models_relationships.png)
 
 ### Notes & Assumptions
 
@@ -141,5 +142,10 @@ Star schema with two fact tables sharing conformed dimensions:
 
 ### Dashboard
 
-Built in Power BI
-Link and screnshoots to be added soon
+Built in Power BI. pbix and pdf files can be found in `assignment_5/dashboard`. Unfortunately I don;t hold the licenses to publish the dashboard online for the public. Therefore, please download the pbix file or enjoy some screnshoots below:
+![Cover Page](assignment_5/dashboard/cover.png)
+![League Overview](assignment_5/dashboard/league_overview.png)
+![Player Profile](assignment_5/dashboard/player_profile.png)
+![What-If](assignment_5/dashboard/what_if.png)
+![Root Cause](assignment_5/dashboard/root_cause.png)
+![Appendix](assignment_5/dashboard/appendix.png)
