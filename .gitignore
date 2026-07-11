@@ -220,3 +220,5 @@ __marimo__/
 
 # Ignoring folder with large files
 data/
+cache/
+models/*.parquet

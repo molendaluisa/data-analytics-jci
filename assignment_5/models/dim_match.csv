@@ -1,0 +1,133 @@
+match_id,match_date,match_week,home_team,away_team,home_score,away_score
+3913082,2023-11-05,5,Brighton & Hove Albion WFC,Manchester United W,2,2
+3913155,2024-03-23,17,Manchester City WFC,Manchester United W,3,1
+3913167,2024-04-21,19,Manchester United W,Tottenham Hotspur Women,2,2
+3913175,2024-04-28,20,Aston Villa W,West Ham United LFC,1,1
+3913107,2023-12-09,9,Manchester City WFC,Aston Villa W,2,1
+3913165,2024-04-17,19,Chelsea FCW,Aston Villa W,3,0
+3913115,2023-12-17,10,Aston Villa W,Brighton & Hove Albion WFC,1,0
+3913147,2024-03-16,16,Everton LFC,Aston Villa W,1,2
+3913129,2024-02-03,13,Aston Villa W,Bristol City WFC,2,2
+3912603,2023-10-08,2,Liverpool WFC,Aston Villa W,2,0
+3913134,2024-02-04,13,Chelsea FCW,Everton LFC,3,0
+3913069,2023-10-14,3,Chelsea FCW,West Ham United LFC,2,0
+3912599,2023-10-08,2,Brighton & Hove Albion WFC,West Ham United LFC,0,2
+3913131,2024-02-04,13,Liverpool WFC,Tottenham Hotspur Women,1,1
+3913137,2024-02-18,14,Brighton & Hove Albion WFC,Liverpool WFC,0,1
+3913174,2024-04-28,20,Bristol City WFC,Manchester City WFC,0,4
+3913186,2024-05-18,22,Leicester City WFC,Liverpool WFC,0,4
+3913185,2024-05-18,22,Arsenal WFC,Brighton & Hove Albion WFC,5,0
+3913180,2024-05-05,21,Chelsea FCW,Bristol City WFC,8,0
+3913181,2024-05-04,21,Everton LFC,Tottenham Hotspur Women,2,2
+3913171,2024-04-28,20,Leicester City WFC,Manchester United W,0,1
+3913168,2024-04-21,19,Manchester City WFC,West Ham United LFC,5,0
+3913169,2024-04-21,19,Arsenal WFC,Leicester City WFC,3,0
+3913182,2024-05-04,21,Brighton & Hove Albion WFC,Aston Villa W,0,1
+3913173,2024-05-01,20,Liverpool WFC,Chelsea FCW,4,3
+3913166,2024-04-19,19,Brighton & Hove Albion WFC,Everton LFC,1,2
+3913157,2024-03-24,17,Leicester City WFC,Brighton & Hove Albion WFC,2,3
+3913161,2024-03-31,18,Manchester United W,Everton LFC,4,1
+3913162,2024-03-30,18,Liverpool WFC,Manchester City WFC,1,4
+3913153,2024-03-24,17,Everton LFC,Liverpool WFC,0,0
+3913160,2024-04-14,18,Arsenal WFC,Bristol City WFC,5,0
+3913163,2024-05-15,18,Tottenham Hotspur Women,Chelsea FCW,0,1
+3913150,2024-03-17,16,Brighton & Hove Albion WFC,Manchester City WFC,1,4
+3913151,2024-03-17,16,Manchester United W,Bristol City WFC,2,0
+3913148,2024-03-17,16,Liverpool WFC,West Ham United LFC,3,1
+3913156,2024-03-24,17,Aston Villa W,Arsenal WFC,1,3
+3913144,2024-03-03,15,West Ham United LFC,Manchester United W,1,1
+3913146,2024-03-03,15,Bristol City WFC,Brighton & Hove Albion WFC,3,7
+3913141,2024-03-03,15,Aston Villa W,Liverpool WFC,1,4
+3913152,2024-03-15,16,Chelsea FCW,Arsenal WFC,3,1
+3913130,2024-02-04,13,West Ham United LFC,Arsenal WFC,2,1
+3913135,2024-02-17,14,Arsenal WFC,Manchester United W,3,1
+3913138,2024-02-16,14,Chelsea FCW,Manchester City WFC,0,1
+3913128,2024-01-28,12,Everton LFC,Leicester City WFC,0,1
+3913125,2024-01-28,12,Liverpool WFC,Arsenal WFC,0,2
+3913121,2024-01-21,11,Chelsea FCW,Manchester United W,3,1
+3913122,2024-01-21,11,Brighton & Hove Albion WFC,Bristol City WFC,3,2
+3913117,2024-01-20,11,Arsenal WFC,Everton LFC,2,1
+3913112,2023-12-17,10,Bristol City WFC,Chelsea FCW,0,3
+3913113,2023-12-16,10,Tottenham Hotspur Women,Arsenal WFC,1,0
+3913110,2023-12-10,9,West Ham United LFC,Everton LFC,0,1
+3913106,2023-12-10,9,Brighton & Hove Albion WFC,Leicester City WFC,2,2
+3913105,2023-12-10,9,Arsenal WFC,Chelsea FCW,4,1
+3913111,2023-12-17,10,Manchester United W,Liverpool WFC,1,2
+3913103,2023-11-26,8,Chelsea FCW,Leicester City WFC,5,2
+3913104,2023-11-26,8,Bristol City WFC,Manchester United W,0,2
+3912594,2023-10-01,1,Bristol City WFC,Leicester City WFC,2,4
+3913079,2023-10-22,4,Bristol City WFC,Arsenal WFC,1,2
+3913075,2023-10-21,4,Aston Villa W,Tottenham Hotspur Women,2,4
+3913077,2023-10-22,4,Chelsea FCW,Brighton & Hove Albion WFC,4,2
+3913081,2023-11-04,5,Aston Villa W,Chelsea FCW,0,6
+3913078,2023-10-22,4,Everton LFC,Manchester United W,0,5
+3913080,2023-10-22,4,West Ham United LFC,Liverpool WFC,1,1
+3913076,2023-10-21,4,Leicester City WFC,Manchester City WFC,0,1
+3913071,2023-10-15,3,Manchester United W,Leicester City WFC,1,1
+3913073,2023-10-15,3,Arsenal WFC,Aston Villa W,2,1
+3913072,2023-10-15,3,Manchester City WFC,Bristol City WFC,5,0
+3912593,2023-10-01,1,West Ham United LFC,Manchester City WFC,0,2
+3913074,2023-10-15,3,Brighton & Hove Albion WFC,Tottenham Hotspur Women,1,3
+3912602,2023-10-08,2,Leicester City WFC,Everton LFC,1,0
+3912600,2023-10-08,2,Manchester City WFC,Chelsea FCW,1,1
+3912601,2023-10-08,2,Tottenham Hotspur Women,Bristol City WFC,3,1
+3913188,2024-05-18,22,Tottenham Hotspur Women,West Ham United LFC,3,1
+3913187,2024-05-18,22,Manchester United W,Chelsea FCW,0,6
+3913184,2024-05-18,22,Aston Villa W,Manchester City WFC,1,2
+3913183,2024-05-18,22,Bristol City WFC,Everton LFC,0,4
+3913179,2024-05-05,21,Liverpool WFC,Manchester United W,1,0
+3913178,2024-05-05,21,West Ham United LFC,Leicester City WFC,1,1
+3913177,2024-05-05,21,Manchester City WFC,Arsenal WFC,1,2
+3913176,2024-04-28,20,Everton LFC,Arsenal WFC,1,1
+3913172,2024-04-28,20,Tottenham Hotspur Women,Brighton & Hove Albion WFC,1,1
+3913170,2024-04-20,19,Bristol City WFC,Liverpool WFC,0,1
+3913164,2024-03-31,18,West Ham United LFC,Brighton & Hove Albion WFC,0,0
+3913159,2024-03-30,18,Aston Villa W,Leicester City WFC,2,2
+3913158,2024-03-24,17,West Ham United LFC,Chelsea FCW,0,2
+3913154,2024-03-24,17,Bristol City WFC,Tottenham Hotspur Women,0,1
+3913149,2024-03-17,16,Tottenham Hotspur Women,Leicester City WFC,1,0
+3913145,2024-03-03,15,Leicester City WFC,Chelsea FCW,0,4
+3913143,2024-03-02,15,Manchester City WFC,Everton LFC,2,1
+3913142,2024-03-03,15,Arsenal WFC,Tottenham Hotspur Women,1,0
+3913140,2024-02-18,14,Leicester City WFC,Bristol City WFC,5,2
+3913139,2024-02-18,14,Tottenham Hotspur Women,Aston Villa W,1,2
+3913136,2024-02-18,14,Everton LFC,West Ham United LFC,2,0
+3913133,2024-02-04,13,Manchester United W,Brighton & Hove Albion WFC,2,0
+3913132,2024-02-04,13,Manchester City WFC,Leicester City WFC,2,0
+3913127,2024-01-28,12,Manchester United W,Aston Villa W,2,1
+3913126,2024-01-28,12,Tottenham Hotspur Women,Manchester City WFC,0,2
+3913124,2024-01-28,12,Bristol City WFC,West Ham United LFC,1,2
+3913123,2024-01-27,12,Brighton & Hove Albion WFC,Chelsea FCW,0,3
+3913120,2024-01-21,11,Manchester City WFC,Liverpool WFC,5,1
+3913119,2024-01-19,11,Leicester City WFC,Aston Villa W,0,1
+3913118,2024-01-21,11,West Ham United LFC,Tottenham Hotspur Women,3,4
+3913116,2023-12-17,10,Everton LFC,Manchester City WFC,1,4
+3913114,2023-12-17,10,Leicester City WFC,West Ham United LFC,1,1
+3913109,2023-12-10,9,Tottenham Hotspur Women,Manchester United W,0,4
+3913108,2023-12-10,9,Liverpool WFC,Bristol City WFC,1,1
+3913102,2023-11-26,8,Manchester City WFC,Tottenham Hotspur Women,7,0
+3913101,2023-11-26,8,Arsenal WFC,West Ham United LFC,3,0
+3913100,2023-11-26,8,Aston Villa W,Everton LFC,1,2
+3913099,2023-11-26,8,Liverpool WFC,Brighton & Hove Albion WFC,4,0
+3913098,2023-11-19,7,Manchester United W,Manchester City WFC,1,3
+3913097,2023-11-19,7,Brighton & Hove Albion WFC,Arsenal WFC,0,3
+3913096,2023-11-19,7,West Ham United LFC,Aston Villa W,2,3
+3913095,2023-11-19,7,Leicester City WFC,Tottenham Hotspur Women,1,1
+3913094,2023-11-19,7,Everton LFC,Bristol City WFC,2,2
+3913093,2023-11-18,7,Chelsea FCW,Liverpool WFC,5,1
+3913092,2023-11-12,6,Tottenham Hotspur Women,Liverpool WFC,1,1
+3913091,2023-11-12,6,Leicester City WFC,Arsenal WFC,2,6
+3913090,2023-11-12,6,Manchester United W,West Ham United LFC,5,0
+3913089,2023-11-12,6,Everton LFC,Chelsea FCW,0,3
+3913088,2023-11-12,6,Manchester City WFC,Brighton & Hove Albion WFC,0,1
+3913087,2023-11-12,6,Bristol City WFC,Aston Villa W,0,2
+3913086,2023-11-05,5,West Ham United LFC,Bristol City WFC,2,3
+3913085,2023-11-05,5,Tottenham Hotspur Women,Everton LFC,1,1
+3913084,2023-11-05,5,Liverpool WFC,Leicester City WFC,2,1
+3913083,2023-11-05,5,Arsenal WFC,Manchester City WFC,2,1
+3913070,2023-10-15,3,Liverpool WFC,Everton LFC,0,1
+3912597,2023-10-01,1,Chelsea FCW,Tottenham Hotspur Women,2,1
+3912592,2023-10-01,1,Aston Villa W,Manchester United W,1,2
+3912595,2023-10-01,1,Arsenal WFC,Liverpool WFC,0,1
+3912596,2023-10-01,1,Everton LFC,Brighton & Hove Albion WFC,1,2
+3912598,2023-10-06,2,Manchester United W,Arsenal WFC,2,2
